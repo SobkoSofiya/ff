@@ -13,6 +13,7 @@
 		C3724B1325D2616F00473FB8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C3724B1225D2616F00473FB8 /* Preview Assets.xcassets */; };
 		C3724B1E25D2616F00473FB8 /* Fix_PriseTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3724B1D25D2616F00473FB8 /* Fix_PriseTests.swift */; };
 		C3724B2925D2616F00473FB8 /* Fix_PriseUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3724B2825D2616F00473FB8 /* Fix_PriseUITests.swift */; };
+		C3724B3A25D2620200473FB8 /* Launch Screen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3724B3925D2620200473FB8 /* Launch Screen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -45,6 +46,7 @@
 		C3724B2425D2616F00473FB8 /* Fix PriseUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Fix PriseUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3724B2825D2616F00473FB8 /* Fix_PriseUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Fix_PriseUITests.swift; sourceTree = "<group>"; };
 		C3724B2A25D2616F00473FB8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C3724B3925D2620200473FB8 /* Launch Screen.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = "Launch Screen.storyboard"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,6 +110,7 @@
 			isa = PBXGroup;
 			children = (
 				C3724B1225D2616F00473FB8 /* Preview Assets.xcassets */,
+				C3724B3925D2620200473FB8 /* Launch Screen.storyboard */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C3724B3A25D2620200473FB8 /* Launch Screen.storyboard in Resources */,
 				C3724B1325D2616F00473FB8 /* Preview Assets.xcassets in Resources */,
 				C3724B1025D2616F00473FB8 /* Assets.xcassets in Resources */,
 			);
