@@ -62,7 +62,7 @@ struct ContentView: View {
                         RoundedRectangle(cornerRadius: 20).frame(width: 320, height: 80, alignment: .center).foregroundColor(Color("gren"))
                         Text("Войти").foregroundColor(.white).font(.custom("", size: 20))
                    }
-                    Text("Забыли пароль").foregroundColor(Color("bu")).font(.custom("", size: 18)).offset( y: -20)
+                    Text("Забыли пароль?").foregroundColor(Color("bu")).font(.custom("", size: 18)).offset( y: -20)
                     
                 }.offset( y: 40)
                 Spacer()
