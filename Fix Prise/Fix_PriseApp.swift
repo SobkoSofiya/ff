@@ -11,7 +11,7 @@ import SwiftUI
 struct Fix_PriseApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            bottomM()
         }
     }
 }
